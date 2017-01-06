@@ -1,6 +1,6 @@
 ## 简介
 
-向使用spring-rabbitmq一样使用kafka
+像使用spring-rabbitmq一样使用kafka
 
 ## 使用
 
